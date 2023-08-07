@@ -1,0 +1,45 @@
+* Hebrew alphabet
+
+I created these tables from Rabbi Stuart Federow's lesson on [How to
+read Hebrew in 1 hour](https://www.youtube.com/watch?v=tk1njVL723w)
+and the [Hebrew
+alphabet article on
+Wikipedia](https://en.wikipedia.org/wiki/Hebrew_alphabet).
+
+I found his video especially useful for the mnemoics, but by his own
+admission, the pronunciation might not be the most accurate in some
+cases--hence why I included the IPA pronunciation.
+
+** Consonants
+
+| Letter | Mnemonic                     | IPA    | Name   |
+|--------+------------------------------+--------+--------|
+| ה‎      | **h**ole                     | h      | He     |
+| ח      |                              | χ      | Chet   |
+| א‎      |                              | silent | Alef   |
+| ל      | **l**ightning                | l      | Lamed  |
+| ג      | **g**ap                      | ɣ      | Gimel  |
+| נ      | **n**o gap                   | n      | Nun    |
+| בּ‎      | **b**lasting cap             | b      | Bet    |
+| ב‎      | **v**ibrate                  | v      | Bet    |
+| ס      | **c**ercle                   | s      | Samekh |
+| ד      | **d**oohickey sticks out     | ð      | Dalet  |
+| ר‎      | **r**ound                    | ʁ      | Resh   |
+| מ‎      | hole in the botto**m**       | m      | Mem    |
+| ט      | hole in the **t**op          | t      | Tet    |
+| כּ      | blasting **c**ap, **c**urved | k      | Kaf    |
+| כ      | vibrates **kkhhhhh**         | χ      | Kaf    |
+| ע‎      |                              | silent | Ayin   |
+| צ‎      | pre**tz**el                  | ts     | Tsadi  |
+| ק‎      | **k**ey                      | k      | Qof    |
+|        |                              |        |        |
+
+** Vowels
+
+| Letter | Mnemonic                     | IPA | Name |
+|--------+------------------------------+-----+------|
+| ֵ      | l*ay*ing                     | e   |      |
+|        |                              | a   |      |
+|        |                              | a   |      |
+| וֹ      | **ooooh** (clutches stomach) | uː  |      |
+| וֹ      | **oh**! (smacks head)        | o̞ː |      |
