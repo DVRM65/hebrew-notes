@@ -12,26 +12,35 @@ cases--hence why I included the IPA pronunciation.
 
 ** Consonants
 
-| Letter | Mnemonic             | IPA    | Name   | Hint        |
-|--------+----------------------+--------+--------+-------------|
-| ה‎      | Hole                 | h      | He     |             |
-| ח      |                      | χ      | Chet   | oJo (es)    |
-| א‎      |                      | silent | Alef   |             |
-| ל      | Lightning            | l      | Lamed  |             |
-| ג      | Gap                  | ɣ      | Gimel  | amiGo (es)  |
-| נ      | No gap               | n      | Nun    |             |
-| בּ‎      | Blasting cap         | b      | Bet    |             |
-| ב‎      | Vibrate              | v      | Bet    |             |
-| ס      | Sercle               | s      | Samekh |             |
-| ד      | Doohickey sticks out | ð      | Dalet  | deDo (es)   |
-| ר‎      | Round                | ʁ      | Resh   | Rester (fr) |
-| מ‎      |                      | m      | Mem    |             |
-| ט      | hole in the Top      | t      | Tet    |             |
-| כּ      | blasting Kap, Kurved | k      | Kaf    |             |
-| כ      | vibrates *kkhhhhh*   | χ      | Kaf    | oJo (es)    |
-| ע‎      |                      | silent | Ayin   |             |
-| צ‎      | preTZel              | ts     | Tsadi  | Tu (fr-ca)  |
-| ק‎      | Key                  | k      | Qof    |             |
+| Letter | Mnemonic                            | IPA    | Name   | Hint        |
+|--------+-------------------------------------+--------+--------+-------------|
+| ה‎      | Hole                                | h      | He     |             |
+| ח      |                                     | χ      | Chet   | oJo (es)    |
+| א‎      |                                     | silent | Alef   |             |
+| ל      | Lightning                           | l      | Lamed  |             |
+| ג      | Gap                                 | ɣ      | Gimel  | amiGo (es)  |
+| נ      | No gap                              | n      | Nun    |             |
+| בּ‎      | Blasting cap                        | b      | Bet    |             |
+| ב‎      | Vibrate                             | v      | Bet    |             |
+| ס      | Sercle                              | s      | Samekh |             |
+| ד      | Doohickey sticks out                | ð      | Dalet  | deDo (es)   |
+| ר‎      | Round                               | ʁ      | Resh   | Rester (fr) |
+| מ‎      |                                     | m      | Mem    |             |
+| ט      | hole in the Top                     | t      | Tet    |             |
+| כּ      | blasting Kap, Kurved                | k      | Kaf    |             |
+| כ      | vibrates *kkhhhhh*                  | χ      | Kaf    | oJo (es)    |
+| ע‎      |                                     | silent | Ayin   |             |
+| צ‎      | preTZel                             | ts     | Tsadi  | Tu (fr-ca)  |
+| ק‎      | Key                                 | k      | Qof    |             |
+| ו‎      |                                     | v      | Vav    |             |
+| ז      | Zigzag on top                       | z      | Zayin  |             |
+| פּ      | blasting caP                        | p      | Pe     |             |
+| פ‎      | Face, PH                            | f      | Pe     |             |
+| י‎      |                                     | j      | Yod    |             |
+| תּ‎      | Toe                                 | t      | Tav    |             |
+| ת‎      |                                     | θ      | Tav    |             |
+| שׁ‎      | dot is in the east, in Chicago      | ʃ      | Shin   |             |
+| שׂ‎      | dot is in the northwest, in Seattle | s      | Shin   |             |
 
 
 ** Vowels
