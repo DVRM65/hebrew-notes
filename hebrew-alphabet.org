@@ -1,10 +1,10 @@
 * Hebrew alphabet
 
-I created these tables from Rabbi Stuart Federow's lesson on [How to
-read Hebrew in 1 hour](https://www.youtube.com/watch?v=tk1njVL723w)
-and the [Hebrew
+I created these tables from Rabbi Stuart Federow's lesson on [[https://www.youtube.com/watch?v=tk1njVL723w][How to
+read Hebrew in 1 hour]]
+and the [[https://en.wikipedia.org/wiki/Hebrew_alphabet][Hebrew
 alphabet article on
-Wikipedia](https://en.wikipedia.org/wiki/Hebrew_alphabet).
+Wikipedia]].
 
 I found his video especially useful for the mnemoics, but by his own
 admission, the pronunciation might not be the most accurate in some
@@ -17,8 +17,8 @@ cases--hence why I included the IPA pronunciation.
 | ה‎      | **h**ole                     | h      | He     |
 | ח      |                              | χ      | Chet   |
 | א‎      |                              | silent | Alef   |
-| ל      | **l**ightning                | l      | Lamed  |
-| ג      | **g**ap                      | ɣ      | Gimel  |
+| ל      | *l*ightning                  | l      | Lamed  |
+| ג      | *g*ap                        | ɣ      | Gimel  |
 | נ      | **n**o gap                   | n      | Nun    |
 | בּ‎      | **b**lasting cap             | b      | Bet    |
 | ב‎      | **v**ibrate                  | v      | Bet    |
