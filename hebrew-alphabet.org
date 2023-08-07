@@ -12,34 +12,34 @@ cases--hence why I included the IPA pronunciation.
 
 ** Consonants
 
-| Letter | Mnemonic                     | IPA    | Name   |
-|--------+------------------------------+--------+--------|
-| ה‎      | **h**ole                     | h      | He     |
-| ח      |                              | χ      | Chet   |
-| א‎      |                              | silent | Alef   |
-| ל      | *l*ightning                  | l      | Lamed  |
-| ג      | *g*ap                        | ɣ      | Gimel  |
-| נ      | **n**o gap                   | n      | Nun    |
-| בּ‎      | **b**lasting cap             | b      | Bet    |
-| ב‎      | **v**ibrate                  | v      | Bet    |
-| ס      | **c**ercle                   | s      | Samekh |
-| ד      | **d**oohickey sticks out     | ð      | Dalet  |
-| ר‎      | **r**ound                    | ʁ      | Resh   |
-| מ‎      | hole in the botto**m**       | m      | Mem    |
-| ט      | hole in the **t**op          | t      | Tet    |
-| כּ      | blasting **c**ap, **c**urved | k      | Kaf    |
-| כ      | vibrates **kkhhhhh**         | χ      | Kaf    |
-| ע‎      |                              | silent | Ayin   |
-| צ‎      | pre**tz**el                  | ts     | Tsadi  |
-| ק‎      | **k**ey                      | k      | Qof    |
-|        |                              |        |        |
+| Letter | Mnemonic                               | IPA    | Name   |
+|--------+----------------------------------------+--------+--------|
+| ה‎      | Hole                                   | h      | He     |
+| ח      |                                        | χ      | Chet   |
+| א‎      |                                        | silent | Alef   |
+| ל      | Lightning                              | l      | Lamed  |
+| ג      | Gap                                    | ɣ      | Gimel  |
+| נ      | No gap                                 | n      | Nun    |
+| בּ‎      | Blasting cap                           | b      | Bet    |
+| ב‎      | Vibrate                                | v      | Bet    |
+| ס      | Sercle                                 | s      | Samekh |
+| ד      | Doohickey sticks out                   | ð      | Dalet  |
+| ר‎      | Round                                  | ʁ      | Resh   |
+| מ‎      |                                        | m      | Mem    |
+| ט      | hole in the Top                        | t      | Tet    |
+| כּ      | blasting Kap, Kurved                   | k      | Kaf    |
+| כ      | vibrates *kkhhhhh*                     | χ      | Kaf    |
+| ע‎      |                                        | silent | Ayin   |
+| צ‎      | preTZel                                | ts     | Tsadi  |
+| ק‎      | Key                                    | k      | Qof    |
+
 
 ** Vowels
 
-| Letter | Mnemonic                     | IPA | Name |
-|--------+------------------------------+-----+------|
-| ֵ      | l*ay*ing                     | e   |      |
-|        |                              | a   |      |
-|        |                              | a   |      |
-| וֹ      | **ooooh** (clutches stomach) | uː  |      |
-| וֹ      | **oh**! (smacks head)        | o̞ː |      |
+| Letter | Mnemonic                   | IPA | Name |
+|--------+----------------------------+-----+------|
+| ֵ      | lAYing                     | e   |      |
+|        |                            | a   |      |
+|        |                            | a   |      |
+| וֹ      | *ooooh* (clutches stomach) | uː  |      |
+| וֹ      | *oh*! (smacks head)        | o̞ː |      |
